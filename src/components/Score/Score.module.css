@@ -1,0 +1,8 @@
+.score {
+  text-align: center;
+}
+
+.card {
+  padding: 0.5rem;
+  box-shadow: 1px 1px 1px rgba(122, 122, 122, 0.25);
+}
