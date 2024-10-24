@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-A live demo of this game is available [here](https://guess-city-game.herokuapp.com/).
+A live demo of this game is available [here](https://guess-city-game.netlify.app/).
 
 ## Running Locally
 
